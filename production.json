@@ -1,0 +1,19 @@
+{
+  "DB_HOST": "adb.us-ashburn-1.oraclecloud.com",
+  "DB_PORT": 1522,
+  "DB_SERVICE": "picapiedras_high.adb.oraclecloud.com",
+  "DB_USER": "PICAPIEDRAS_APP",
+  "DB_PASSWORD": "use-oci-vault-secret",
+  "WALLET_PATH": "/opt/oci/wallet",
+  "SERVER_PORT": 8080,
+  "API_BASE_URL": "https://los-picapiedras-prod.oci.example.com/api",
+  "JWT_SECRET": "use-oci-vault-secret",
+  "LOG_LEVEL": "WARN",
+  "OCI_REGION": "us-ashburn-1",
+  "OCI_BUCKET": "picapiedras-prod-logs",
+  "FEATURE_FLAGS": {
+    "enable_new_ui": false,
+    "mock_external_services": false
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "DB_HOST": "staging-db",
+  "DB_PORT": 5432,
+  "DB_NAME": "picapiedras_staging",
+  "DB_USER": "staging_user",
+  "DB_PASSWORD": "staging_password",
+  "SERVER_PORT": 8080,
+  "API_BASE_URL": "https://staging.local/api",
+  "JWT_SECRET": "staging-secret-key",
+  "LOG_LEVEL": "INFO",
+  "FEATURE_FLAGS": {
+    "enable_new_ui": true,
+    "mock_external_services": false
+  }
+}
+

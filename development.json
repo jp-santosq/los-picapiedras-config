@@ -1,0 +1,16 @@
+{
+  "DB_HOST": "localhost",
+  "DB_PORT": 5432,
+  "DB_NAME": "picapiedras_dev",
+  "DB_USER": "dev_user",
+  "DB_PASSWORD": "dev_password",
+  "SERVER_PORT": 8080,
+  "API_BASE_URL": "http://localhost:8080/api",
+  "JWT_SECRET": "dev-secret-key",
+  "LOG_LEVEL": "DEBUG",
+  "FEATURE_FLAGS": {
+    "enable_new_ui": true,
+    "mock_external_services": true
+  }
+}
+
