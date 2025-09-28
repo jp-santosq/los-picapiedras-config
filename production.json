@@ -11,6 +11,7 @@
   "LOG_LEVEL": "WARN",
   "OCI_REGION": "us-ashburn-1",
   "OCI_BUCKET": "picapiedras-prod-logs",
+  "VALOR": "Ejemplo",
   "FEATURE_FLAGS": {
     "enable_new_ui": false,
     "mock_external_services": false
