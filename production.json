@@ -1,6 +1,6 @@
 {
   "DB_HOST": "adb.us-ashburn-1.oraclecloud.com",
-  "DB_PORT": 1522,
+  "DB_PORT": 1523,
   "DB_SERVICE": "picapiedras_high.adb.oraclecloud.com",
   "DB_USER": "PICAPIEDRAS_APP",
   "DB_PASSWORD": "use-oci-vault-secret",
