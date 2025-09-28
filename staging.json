@@ -1,6 +1,6 @@
 {
   "DB_HOST": "staging-db",
-  "DB_PORT": 5432,
+  "DB_PORT": 6060,
   "DB_NAME": "picapiedras_staging",
   "DB_USER": "staging_user",
   "DB_PASSWORD": "staging_password",
